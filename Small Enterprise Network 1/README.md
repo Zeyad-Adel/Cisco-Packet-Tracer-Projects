@@ -15,7 +15,8 @@ You need to design a network to connect **Accounts** and **Delivery** department
 
 ---
 ## Topology Preview
-    [Topology](./Topology.jpg)
+    
+    ![Topology Preview](./Topology.jpg)
 ---
 
 ## Step-by-Step Solution
